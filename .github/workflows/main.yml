@@ -14,7 +14,7 @@ PASSWORD :- P@ssw0rd!
 
 CODE:- 
 
-name: CI
+name: jksn
 on: [push, workflow_dispatch]
 jobs:
   build:
